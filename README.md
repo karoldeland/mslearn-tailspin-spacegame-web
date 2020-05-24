@@ -1,3 +1,4 @@
+[![Build Status](https://karoldelandia.visualstudio.com/LearnAzDevOps/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://karoldelandia.visualstudio.com/LearnAzDevOps/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
